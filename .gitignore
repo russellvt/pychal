@@ -74,7 +74,8 @@ target/
 .ipynb_checkpoints
 
 # pyenv
-.python-version
+# *** FIXME: Current Jenkins Env needs this for pyenv virtualenv - RVT FIXME ***
+#.python-version
 
 # celery beat schedule file
 celerybeat-schedule
