@@ -1,8 +1,8 @@
 pychal
 ===========
 
-.. image:: https://img.shields.io/travis/ZEDGR/pychal.svg
-   :target: https://travis-ci.org/ZEDGR/pychal
+.. image:: https://img.shields.io/travis/russellvt/pychal.svg
+   :target: https://travis-ci.org/russellvt/pychal
 
 Pychal is a drop-in replacement of pychallonge
 with some extra features and support for new Python versions.
@@ -45,7 +45,7 @@ For latest development
 
 ::
 
-    pip install -e git+http://github.com/ZEDGR/pychal#egg=pychal
+    pip install -e git+http://github.com/russellvt/pychal#egg=pychal
 
 Usage
 =====
@@ -111,7 +111,7 @@ appropriately in your environment.
 
 ::
 
-    $ git clone http://github.com/ZEDGR/pychal pychal
+    $ git clone http://github.com/russellvt/pychal pychal
     $ CHALLONGE_USER=my_user CHALLONGE_KEY=my_api_key python pychal/tests.py
     ...............................
     ----------------------------------------------------------------------
