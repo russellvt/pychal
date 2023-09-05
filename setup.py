@@ -33,6 +33,6 @@ setup(name = "pychal",
         'iso8601==0.1.12',
         'tzlocal==2.0.0',
         'pytz==2019.3',
-        'requests==2.23.0',
+        'requests==2.31.0',
     ],
 )
